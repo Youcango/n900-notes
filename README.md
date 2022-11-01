@@ -165,3 +165,6 @@ What do the Nokia N900 LED colors mean?
 #### Cool projects
 * [QUAD BOOT](http://talk.maemo.org/showthread.php?t=74956)
 
+#### Other help
+blog:https://steward-fu.github.io/website/phone/n900/maemo/os_flash.htm
+source:http://repository.maemo.org/extras-devel/
